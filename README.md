@@ -1,6 +1,7 @@
 # CRUD-contas-Bancarias!
 <br>
- <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fdevporai.com.br%2Fwp-content%2Fuploads%2F2021%2F01%2FO-que-e-CRUD.jpg&tbnid=qfdvTaKBvCbZHM&vet=12ahUKEwiv46rU-fCAAxVjI7kGHS70B-QQMygMegQIARBu..i&imgrefurl=https%3A%2F%2Fdevporai.com.br%2Fo-que-e-crud-e-porque-voce-deveria-aprender-a-criar-um%2F&docid=_yDElqOFrAc1NM&w=1600&h=900&q=readme%20de%20um%20crud%20de%20contas%20de%20um%20banco%20de%20dados%20javascript&ved=2ahUKEwiv46rU-fCAAxVjI7kGHS70B-QQMygMegQIARBu" alt="definiçao de um crud" title="" height="60" width="240" align="right"/>
+ <img src="![image](https://github.com/alaenepereira/projeto-crud-de-contas/assets/138121915/027eea90-0e78-48f5-bf6b-41c2e234093c)
+" title="" height="60" width="240" align="right"/>
 
 ### Table of Contents
 **[Sobre](#sobre)**<br>
@@ -76,7 +77,7 @@
 <div align="center"><img src="./img/extrato1.png" alt="Modal da operação mostrar saldo"/></div>
 <br>
 <div align="center"><img src="./img/extrato2.png" alt="Modal da operação mostrar saldo"/></div>
-jj
+
 
 
 
